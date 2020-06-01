@@ -1,0 +1,32 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+ @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;300;400;500;700&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+.font-desc{
+  font-family: 'Bebas Neue', cursive;
+}
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+.logo-img {
+  max-height: 64px!important;
+}
+.menu:hover {
+  color: #00bcd4;
+  transition: 0.5s;
+  font-weight: 700;
+}
+.round{
+  border-radius: 20px;
+}
