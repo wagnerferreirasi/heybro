@@ -1,3 +1,10 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
 
+.font-desc {
+  font-family: "Bebas Neue", cursive;
+  font-size: 34px;
+}
 
 /*# sourceMappingURL=style.css.map */
